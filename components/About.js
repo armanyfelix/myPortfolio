@@ -11,27 +11,27 @@ function About() {
             <section id="about" className="w-full lg:px-48 min-h-screen lg:p-14 md:p-10 p-8 bg-gray-800 ">
                 <div className="justify-between items-center text-center flex sm:m-2 md:m-3 lg:m-4 xl:m-5 ">
                     <h1 className="text-white lg:text-5xl md:text-5xl sm:text-3xl text-3xl items-center font-simplex font-bold">About</h1>
-                    <Link href="https://drive.google.com/file/d/1CfDBdcbTK9SF7GjFcy2T3U-1BIAc7Hhm/view?usp=sharing">
+                    <Link href="https://drive.google.com/file/d/1o0w4x5xpnOoPM1rS1aN8FMDWoJoUzGoT/view?usp=sharing">
                         <button className={resumen.btn}>
                             <span className="font-mono">Resumen</span>
                         </button>
                     </Link>
                 </div>
-                <div  className="xl:flex justify-center items-center mt-10">
+                <div className="xl:flex justify-center items-center mt-10">
                     <div className="xl:w-1/2 ">
                         <span className="text-xl  text-indigo-300 font-bold">Hi, i'm Armany</span>
                         <p className="text-justify lg:text-lg md:text-base text-sm text-white">
-                            I like creating and designing websites that improve the way we surf the Internet
-                            and improve the tools we use to make life easier. I started with c ++ when I was
-                            15 years old, since then I have continued my studies with different languages such
-                            as c #, java, python, etc. but what I liked the most and I specialize is creating
-                            things for the Internet with javascript, html and css. I also like to do ui / ux design.
+                            I like to create and design websites that improve the way we surf the Internet and make better tools that
+                            help us make life easier. I started with C ++ when i was 15 years old, since then i have continued my studies
+                            with different languages such as C #, Java, Python, etc. But what i like the most and what i want to do is
+                            create things for the internet with javascript, html, css and many frameworks! I also like to do ui / ux
+                            design.
                         </p>
                         <br />
                         <p className="text-justify lg:text-lg md:text-base text-sm text-white">
-                            I have worked on some websites that I have made for some friends to gain experience
-                            and improve my development skills, so I have created some projects with the most
-                            current technologies.
+                            I have worked on some websites that i have made for some friends to gain experience
+                            and improve my development skills. Right now I am looking for my first job as a developer,
+                            so if you are interested in my work please contact me.
                         </p>
                         <br />
                         <p className="text-justify lg:text-lg md:text-base text-sm text-white">

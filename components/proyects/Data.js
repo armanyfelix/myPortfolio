@@ -10,7 +10,7 @@ const Data = [
     {
         name: "Car's bodyshop",
         url: "https://felixgarages.netlify.app/",
-        source: "https://github.com/armanyfelix/felixgarage",
+        source: "https://github.com/armanyfelix/felixgarages",
         description: "Website for my brother's car's body shop with a contact info, message chat api for the facebook page, location in google maps and a gallery with they works.",
         image: "/img/felixgarage.png",
         tecs: "React Bootstrap Express Messenger-chat Google-Maps-api"
@@ -26,7 +26,7 @@ const Data = [
     {
         name: "Criptos price tracker",
         url: "https://cripto-quote.netlify.app/",
-        source: "https://github.com/armanyfelix/villatoro",
+        source: "https://github.com/armanyfelix/CriptoQuote",
         description: "Consult the cryptocompare api to check the information of the most popular cryptocurrencies and you can change it to your local currency",
         image: "/img/criptoQuote.png",
         tecs: " Html JavaScript Css Normalize Skeleton"
@@ -35,7 +35,7 @@ const Data = [
         name: "Simple CRM",
         url: "https://simplecrm.netlify.app",
         source: "https://github.com/armanyfelix/CRM",
-        description: "Un gestor de relaciones con el cliente muy sencillo que se guarda en una base de datos indexada en su navegador",
+        description: "A simple customer relationship manager that is saved in an indexed database in your browser. (I'll add react and firebase auth and database soon)",
         image: "/img/crm.png",
         tecs: " Html JavaScript Css Tailwind"
     },
