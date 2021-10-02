@@ -6,7 +6,7 @@ import Navbar from "./Navbar";
 
 Layout.defaultProps = {
     title: "Armany | Portfolio",
-    description: "My personal web portfolio to fine a nice job like a software engineer",
+    description: "My personal web portfolio to find a nice job as software developer",
 }
 
 function Layout({ children, title, description, home }) {
