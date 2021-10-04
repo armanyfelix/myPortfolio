@@ -11,7 +11,7 @@ function About() {
             <section id="about" className="w-full lg:px-48 min-h-screen lg:p-14 md:p-10 p-8 bg-gray-800 ">
                 <div className="justify-between items-center text-center flex sm:m-2 md:m-3 lg:m-4 xl:m-5 ">
                     <h1 className="text-white lg:text-5xl md:text-5xl sm:text-3xl text-3xl items-center font-simplex font-bold">About</h1>
-                    <Link href="https://drive.google.com/file/d/1o0w4x5xpnOoPM1rS1aN8FMDWoJoUzGoT/view?usp=sharing">
+                    <Link href="https://drive.google.com/file/d/175nBRCGv9pvopVjxJHcx47QIhnQhoYTV/view?usp=sharing">
                         <button className={resumen.btn}>
                             <span className="font-mono">Resumen</span>
                         </button>
